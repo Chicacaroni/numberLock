@@ -37,7 +37,7 @@ function App(){
   }
   const resetClickHandler =() => {
     setNum1(0);
-    setDisp("Enter Code");
+    setDisp("ENTER CODE");
     console.log(num1 +'|'+disp);
   }
 
